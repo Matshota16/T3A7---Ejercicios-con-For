@@ -30,17 +30,17 @@ ejercicio 2
 +-------------------------------------------------------------+
 |  10 NUNMEROS IMPARES Y SU PRODUCTO                          |
 +-------------------------------------------------------------+
-| 1.ingrese el numero impar                                   |
-| 2.ingrese el numero impar                                   |
-| 3.ingrese el numero impar                                   |
-| 4.ingrese el numero impar                                   |
-| 5.ingrese el numero impar                                   |
-| 6.ingrese el numero impar                                   |
-| 7.ingrese el numero impar                                   |
-| 8.ingrese el numero impar                                   |
-| 9.ingrese el numero impar                                   |
-| 10.ingrese el numero impar     
-|
+| 1.ingrese el numero impar     1                             |
+| 2.ingrese el numero impar     1                             |
+| 3.ingrese el numero impar     1                             |
+| 4.ingrese el numero impar     1                             |
+| 5.ingrese el numero impar     1                             |
+| 6.ingrese el numero impar     1                             |
+| 7.ingrese el numero impar     1                             |
+| 8.ingrese el numero impar     1                             |
+| 9.ingrese el numero impar     1                             |
+| 10.ingrese el numero impar    1                             |
+|11. el producto de los numeros impares es 10                 |
 +-------------------------------------------------------------+
 
 ~~~
