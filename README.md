@@ -9,6 +9,38 @@ Desarrolla la solución para los siguientes ejercicios:
 4: Dadas las edades y alturas de 5 alumnos, mostrar la edad y la estatura media, la cantidad de alumnos mayores de 18 años, y la cantidad de alumnos que miden más de 1.75.
 
 ## Etapa 2; Diseño de la solucion.
+ejercicio 1
++Entrada:
+       -int inicio
+       -int limite
+       -int incremento
+
++Proceso:
+       -solicitar los numeros secuenciales
+       -Calcular la suma de tosos estos
+
++Salida:
+
+  ~~~
++--------------------------------------------------------+
+|Inicio:                                                 |
+|10                                                      |
+|Limite:                                                 |
+|50                                                      |
+|Incremento:                                             |
+|5                                                       |
+|Numero actual es: 10                                    |
+|Numero actual es: 15                                    |
+|Numero actual es: 20                                    |
+|Numero actual es: 25                                    |
+|Numero actual es: 30                                    |
+|Numero actual es: 35                                    |
+|Numero actual es: 40                                    |
+|Numero actual es: 45                                    |
+|Numero actual es: 50                                    |
++--------------------------------------------------------+
+  ~~~
+
 ejercicio 2
   +Entrada:
         -int num1
@@ -64,7 +96,7 @@ Salida:
 | 3. ingrese salario y nombre del trabajador  Mateo,600       |
 | 4. ingrese salario y nombre del trabajador  Evelin, 800     |
 | 5. ingrese salario y nombre del trabajador  Juan, 700       |    
-| 6. el promedio de los salarios es:                          |
+| 6. el promedio de los salarios es:    660                   |
 +-------------------------------------------------------------+
 ~~~
 
@@ -86,7 +118,11 @@ Salida:
 | 1. ingrese edad y altura 19,   1.79                         |
 | 1. ingrese edad y altura 18,   1.76                         |
 | 1. ingrese edad y altura 18,   1.70                         |
-| 1. ingrese edad y altura 19,   1.80                         |
+| 1. ingrese edad y altura 19,   1.80                         |    
+| 6. Altura media:1.73                                        |
+| 7. Edad media:18                                            |
+| 8. Cantidad de alumnos mayores de 18: 5                     |
+| 9. Cantidad de alumnos mas o giual de altos que 1.75: 3     |
 +-------------------------------------------------------------+
 
 ~~~
