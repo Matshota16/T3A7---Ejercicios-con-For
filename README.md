@@ -45,4 +45,24 @@ ejercicio 2
 
 ~~~
 
-        -
+ejercicio 3
+Solucion:
+     -int trabajador
+     -int resultado
+     -int promedio
+Proceso:
+     - solicitar los datos de 5 trabajadores
+     - calcular el promedio del salario de los 5 trabajadores
+Salida:
+
+  ~~~
++-------------------------------------------------------------+
+|  5 trabajadores y el promedio se su salario                 |
++-------------------------------------------------------------+
+| 1. ingrese salario y nombre del trabajador  Juan, 700       |
+| 2. ingrese salario y nombre del trabajador  David,500       |
+| 3. ingrese salario y nombre del trabajador  Mateo,600       |
+| 4. ingrese salario y nombre del trabajador  Evelin, 800     |
+| 5. ingrese salario y nombre del trabajador  Juan, 700       |
++-------------------------------------------------------------+
+~~~
