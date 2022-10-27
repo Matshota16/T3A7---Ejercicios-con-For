@@ -63,6 +63,30 @@ Salida:
 | 2. ingrese salario y nombre del trabajador  David,500       |
 | 3. ingrese salario y nombre del trabajador  Mateo,600       |
 | 4. ingrese salario y nombre del trabajador  Evelin, 800     |
-| 5. ingrese salario y nombre del trabajador  Juan, 700       |
+| 5. ingrese salario y nombre del trabajador  Juan, 700       |    
+| 6. el promedio de los salarios es:                          |
 +-------------------------------------------------------------+
+~~~
+
+Ejercicio 4
+Entrada:
+      -int altura
+      -int edad
+Solucion:
+      -solicitar altura y edad de 5 alumnos
+      -sacar la altura y edad media 
+      -determinar la cantidad de alumnos mayores a 18 años
+      -determinar la cantidad de alumnos que miden mas de 1.75
+Salida:
+  ~~~
++-------------------------------------------------------------+
+|  Altura de 5 alumnos                                        |
++-------------------------------------------------------------+
+| 1. ingrese edad y altura 18,   1.64                         |
+| 1. ingrese edad y altura 19,   1.79                         |
+| 1. ingrese edad y altura 18,   1.76                         |
+| 1. ingrese edad y altura 18,   1.70                         |
+| 1. ingrese edad y altura 19,   1.80                         |
++-------------------------------------------------------------+
+
 ~~~
