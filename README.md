@@ -132,4 +132,4 @@ Salida:
   
   ## Etapa 4, Desarollo de la solucion
 Desarollo de la solución 
-![](
+![](https://github.com/Matshota16/T3A7---Ejercicios-con-For/blob/64afda06f8549d9cbc75a9f052081762c1dcfbae/T3A7.zip)
